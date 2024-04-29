@@ -15,11 +15,11 @@ Developing a robust classification model is essential for verifying the authenti
 
 ## Repository Structure
 - **Notebooks**:
-  Feature Extraction - Human vs LLM: We utilize Word2Vec embeddings and Principal Component Analysis (PCA) to extract features from the generated data.
-  Binary Classification Human vs LLM: This section contains the code for conducting binary classification on the prompts to distinguish between AI-generated and human-written text.
-  Multi-Class Classification Human vs LLM: Here, you'll find the code for performing multi-class classification to identify the specific LLM model from which the AI-generated text originates. We consider 5 LLM classes.
-  Human vs LLM Pipeline: This section houses our final pipeline, designed to take user input and determine whether the given text is AI-generated or human-written. If it's AI-generated, we provide information about the likely LLM model.
-  Playground Notebook - Human vs LLM: Explore our playground notebook for further experimentation and analysis in the context of distinguishing between human and LLM-generated text.
+  - **Feature Extraction - Human vs LLM:** We utilize Word2Vec embeddings and Principal Component Analysis (PCA) to extract features from the generated data.
+  - **Binary Classification Human vs LLM:** This section contains the code for conducting binary classification on the prompts to distinguish between AI-generated and human-written text.
+  - **Multi-Class Classification Human vs LLM:** Here, you'll find the code for performing multi-class classification to identify the specific LLM model from which the AI-generated text originates. We consider 5 LLM classes.
+  - **Human vs LLM Pipeline:** This section houses our final pipeline, designed to take user input and determine whether the given text is AI-generated or human-written. If it's AI-generated, we provide information about the likely LLM model.
+  - **Playground Notebook - Human vs LLM:** Explore our playground notebook for further experimentation and analysis in the context of distinguishing between human and LLM-generated text.
   
 - **Environment**:
   Holds the packages used for training, evaluation, and development of our model.
