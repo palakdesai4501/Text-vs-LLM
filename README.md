@@ -20,3 +20,4 @@ In response to this challenge, our project aims to develop robust classification
 ## Contributors
 - Abishek Joshua Tennyson (@abishek-joshua)
 - Cibhi Baskar (@cibhibaskar)
+- Palak Desai (@palakdesai4501)
